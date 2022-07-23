@@ -4,7 +4,7 @@ Wait, I'm modifying this page!
 
 
  <div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazzioni&layout=compact&langs_count=20&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fazzioni&layout=compact&langs_count=20&bg_color=101a26&title_color=E4562B&text_color=fff&icon_color=E4562B&hide_border=true&count_private=true&hide=Jupyter%20Notebook"/>
 </div>
  
  
