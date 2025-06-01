@@ -9,7 +9,7 @@ Wait, I'm modifying this page!
  
  
  
- <a href="https://vjudge.net/status/#un=Fazzioni&OJId=All&probNum=&res=1&orderBy=run_id&language="> my competitive programming solutions </a>
+ <a href="https://vjudge.net/status#un=Fazzioni&OJId=All&probNum=&res=1&orderBy=run_id&language="> my competitive programming solutions </a>
 
  
 ![Fazzioni's github stats](https://github-readme-stats.vercel.app/api?username=Fazzioni&count_private=true&show_icons=true&theme=dracula)
